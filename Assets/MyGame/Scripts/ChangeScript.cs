@@ -12,6 +12,7 @@ public class ChangeScript : MonoBehaviour {
 	void Start () {
 
         overrideText.text = "lalala";
+        //Überschreibt Text 
 	}
 	
 	// Update is called once per frame
